@@ -1,0 +1,41 @@
+место для вашего кода
+body{
+  width: 1100px;
+}
+
+header{
+  display: grid;
+  grid-template-columns: 1fr min-content 1fr;
+  align-items: center;
+  padding: 133px 50px 138px 50px;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  gap: 13px;
+  list-style:circle
+}
+
+.logotype{
+  width: 148px;
+}
+
+address p{
+  width: 240px;
+
+}
+
+.cover{
+  width: 1100px;
+  height: 757px;
+  background-image: url(../images/cover.jpg);
+}
+
+
+
+
+.media{
+  width: 48px;
+}
