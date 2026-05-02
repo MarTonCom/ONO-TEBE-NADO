@@ -3,7 +3,7 @@
   src:
     url(./Raleway-Regular.woff2) format('woff2'),
     url(./Raleway-Regular.woff) format('woff');
-  font-weight: 400;
+  font-weight: normal;
   font-display: swap;
 }
 
@@ -21,6 +21,6 @@
   src:
     url(./Raleway-VariableFont_wght.ttf) format('ttf'),
     url(./Raleway-Italic-VariableFont_wght.ttf) format('ttf');
-  font-weight: 400;
+  font-weight: normal;
   font-display: swap;
 }
