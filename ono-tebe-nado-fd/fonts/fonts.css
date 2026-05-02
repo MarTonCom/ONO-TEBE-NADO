@@ -3,7 +3,7 @@
   src:
     url(./Raleway-Regular.woff2) format('woff2'),
     url(./Raleway-Regular.woff) format('woff');
-  font-weight: normal;
+  font-weight: 400;
   font-display: swap;
 }
 
@@ -13,5 +13,14 @@
     url(./Raleway-Bold.woff2) format('woff2'),
     url(./Raleway-Bold.woff) format('woff');
   font-weight: bold;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Raleway;
+  src:
+    url(./Raleway-VariableFont_wght.ttf) format('ttf'),
+    url(./Raleway-Italic-VariableFont_wght.ttf) format('ttf');
+  font-weight: 400;
   font-display: swap;
 }
